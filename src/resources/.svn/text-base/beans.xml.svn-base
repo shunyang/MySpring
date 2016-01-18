@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xmlns:context="http://www.springframework.org/schema/context"
+		xmlns:tx="http://www.springframework.org/schema/tx"
+		xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+				http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-2.5.xsd
+				http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-2.5.xsd">
+  <!-- id 表示你这个组件的名字，class表示组件类 -->
+
+	<bean id="personService" class="com.yangyang.service.impl.PersonServiceImpl">
+		<property name="personDao" ref="personDao"></property>
+	</bean>
+	<bean id="personDao" class="com.yangyang.dao.impl.PersonDaoImpl">
+	</bean>
+	
+	<!-- 采用内部注入bean注入依赖对象 -->
+	<bean id="personService2" class="com.yangyang.service.impl.PersonServiceImpl"> 
+		<property name="personDao" ref="personDao"></property> 
+		<property name="name" value="yangyang"></property> 
+ 		<property name="age" value="23"></property> 
+	</bean> 
+	
+	<bean id="personService3" class="com.yangyang.service.impl.PersonServiceImpl">
+	</bean>
+</beans>

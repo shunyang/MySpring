@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="7"
+   name=""
+   committed-date="2013-08-26T16:01:35.186390Z"
+   url="https://administer-pc/svn/CodeRepository/trunk/MySpring/src/lib"
+   last-author="csy"
+   kind="dir"
+   uuid="e8c3bccf-def6-be49-88b7-6d9f9e024312"
+   repos="https://administer-pc/svn/CodeRepository"
+   revision="7"/>
+<entry
+   committed-rev="7"
+   name="msv-20030807.jar"
+   text-time="2013-08-26T16:01:35.186390Z"
+   committed-date="2013-08-26T16:01:35.186390Z"
+   checksum="aea7bba1ed9a3ee7e8f0ff516a4124f1"
+   last-author="csy"
+   kind="file"
+   prop-time="2013-08-26T16:04:44.706229Z"/>
+<entry
+   committed-rev="7"
+   name="xsdlib-20030807.jar"
+   text-time="2013-08-26T16:01:35.186390Z"
+   committed-date="2013-08-26T16:01:35.186390Z"
+   checksum="fe8759279d47c3a361322da43d8351c8"
+   last-author="csy"
+   kind="file"
+   prop-time="2013-08-26T16:04:44.763233Z"/>
+<entry
+   committed-rev="7"
+   name="jaxme-api-0.3.jar"
+   text-time="2013-08-26T16:01:35.186390Z"
+   committed-date="2013-08-26T16:01:35.186390Z"
+   checksum="ed3f32cdf3b730dbb7b404821fee0f13"
+   last-author="csy"
+   kind="file"
+   prop-time="2013-08-26T16:04:44.783234Z"/>
+<entry
+   committed-rev="7"
+   name="xpp3-1.1.3.3.jar"
+   text-time="2013-08-26T16:01:35.186390Z"
+   committed-date="2013-08-26T16:01:35.186390Z"
+   checksum="c6c59f46371f23e6af7207fbd9591d22"
+   last-author="csy"
+   kind="file"
+   prop-time="2013-08-26T16:04:44.808235Z"/>
+<entry
+   committed-rev="7"
+   name="commons-beanutils-core-1.8.3.jar"
+   text-time="2013-08-26T16:01:35.186390Z"
+   committed-date="2013-08-26T16:01:35.186390Z"
+   checksum="944f66e681239c8353e8497920f1e5d3"
+   last-author="csy"
+   kind="file"
+   prop-time="2013-08-26T16:04:44.851238Z"/>
+<entry
+   committed-rev="7"
+   name="commons-logging-1.1.1.jar"
+   text-time="2013-08-26T16:01:35.186390Z"
+   committed-date="2013-08-26T16:01:35.186390Z"
+   checksum="ed448347fc0104034aa14c8189bf37de"
+   last-author="csy"
+   kind="file"
+   prop-time="2013-08-26T16:04:44.874239Z"/>
+<entry
+   committed-rev="7"
+   name="relaxngDatatype-20030807.jar"
+   text-time="2013-08-26T16:01:35.186390Z"
+   committed-date="2013-08-26T16:01:35.186390Z"
+   checksum="180e89eb68a520f7a86ee0bac9a2a108"
+   last-author="csy"
+   kind="file"
+   prop-time="2013-08-26T16:04:44.887240Z"/>
+<entry
+   committed-rev="7"
+   name="dom4j-1.6.1.jar"
+   text-time="2013-08-26T16:01:35.186390Z"
+   committed-date="2013-08-26T16:01:35.186390Z"
+   checksum="4d8f51d3fe3900efc6e395be48030d6d"
+   last-author="csy"
+   kind="file"
+   prop-time="2013-08-26T16:04:44.947243Z"/>
+<entry
+   committed-rev="7"
+   name="jaxen-1.1-beta-6.jar"
+   text-time="2013-08-26T16:01:35.186390Z"
+   committed-date="2013-08-26T16:01:35.186390Z"
+   checksum="57c2e31e948bcc4bc2bf19c293f245d6"
+   last-author="csy"
+   kind="file"
+   prop-time="2013-08-26T16:04:45.001246Z"/>
+<entry
+   committed-rev="7"
+   name="jsr173_1.0_api.jar"
+   text-time="2013-08-26T16:01:35.186390Z"
+   committed-date="2013-08-26T16:01:35.186390Z"
+   checksum="2f0fc6a20948901147702e1d38885f49"
+   last-author="csy"
+   kind="file"
+   prop-time="2013-08-26T16:04:45.018247Z"/>
+<entry
+   committed-rev="7"
+   name="pull-parser-2.1.10.jar"
+   text-time="2013-08-26T16:01:35.186390Z"
+   committed-date="2013-08-26T16:01:35.186390Z"
+   checksum="7dea8f66a871da220131969f0cc7a802"
+   last-author="csy"
+   kind="file"
+   prop-time="2013-08-26T16:04:45.042249Z"/>
+</wc-entries>

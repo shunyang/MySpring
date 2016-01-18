@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="7"
+   name=""
+   committed-date="2013-08-26T16:01:35.186390Z"
+   url="https://administer-pc/svn/CodeRepository/trunk/MySpring/src/resources"
+   last-author="csy"
+   kind="dir"
+   uuid="e8c3bccf-def6-be49-88b7-6d9f9e024312"
+   repos="https://administer-pc/svn/CodeRepository"
+   revision="7"/>
+<entry
+   committed-rev="7"
+   name="beans.xml"
+   text-time="2013-08-26T16:01:35.186390Z"
+   committed-date="2013-08-26T16:01:35.186390Z"
+   checksum="fcba38ac22c5112f3522ffb6bf0a5dd3"
+   last-author="csy"
+   kind="file"
+   prop-time="2013-08-26T16:04:45.381268Z"/>
+</wc-entries>
